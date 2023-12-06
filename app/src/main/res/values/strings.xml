@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jobsheet</string>
+    <string name="nameEditText">Nama Mahasiswa</string>
+    <string name="buttonButton">Button</string>
+    <string name="buttonTextView">Halo %1$s</string>
+    <string-array name="names">
+        <item>Fauzul</item>
+        <item>Fikri</item>
+        <item>Zafia</item>
+    </string-array>
+</resources>
